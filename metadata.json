@@ -18,5 +18,15 @@
     "file": "new",
     "description": "no description",
     "contents": ""
+    },
+    {
+        "title": "Resume",
+        "author": "jradd",
+        "date": "08/13/2016",
+        "url": "resume",
+        "tags": ["career", "portfolio"],
+        "file": "resume",
+        "description": "Hello, here is my unfinished resume for testing purposes.",
+        "contents": ""
     }
 ]
