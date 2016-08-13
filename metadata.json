@@ -4,9 +4,18 @@
         "author": "jradd",
         "date": "08/13/2016",
         "url": "hello",
-        "tags" :["Introduction"],
+        "tags": ["Introduction"],
         "file": "Home",
         "description": "just testing shit",
         "contents": ""
-    }
+    },
+    "title": "New Test",
+    "author": "jradd",
+    "date": "08/13/2016",
+    "url": "hello",
+    "tags": ["Test", "Introduction"],
+    "file": "new",
+    "description": "no description",
+    "contents": ""
+    },
 ]
