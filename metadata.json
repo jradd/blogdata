@@ -9,6 +9,8 @@
         "description": "just testing shit",
         "contents": ""
     },
+],
+[
     {
     "title": "New Test",
     "author": "jradd",
@@ -18,5 +20,5 @@
     "file": "new",
     "description": "no description",
     "contents": ""
-    },
+    }
 ]
